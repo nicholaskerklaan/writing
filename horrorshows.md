@@ -1,3 +1,10 @@
 # Five Horror Shows to Stream on Netflix (Tht Aren't *Stranger Things*)
 
-If you're a horror fan with a Netflix subscription, chances are you're all caught up on *Stra
+If you're a horror fan with a Netflix subscription, chances are you're all caught up on the streaming service's massive hit *Stranger Things*, and are waiting for the fifth (and supposedly final) season to drop.
+
+While you wait, why not check out one of these five *other* Netflix horror shows? They might not have the same era-defining popularity, but they've all been successful and critically acclaimed. If you haven't seen any of them, there's no better time than now to correct that. 
+
+They might even help with your *Stranger Things* withdrawals... at least for as long as they take to binge!
+
+
+
