@@ -6,5 +6,8 @@ While you wait, why not check out one of these five *other* Netflix horror shows
 
 They might even help with your *Stranger Things* withdrawals... at least for as long as they take to binge!
 
+## *The Haunting of Hill House* is a Classic Horror Novel Come to Life
+
+
 
 
