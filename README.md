@@ -16,4 +16,5 @@ These are short non-academic articles, each of which break down a philosophical 
 
 This is a proposal I wrote as part of applying for grant funding, where the goal was to explain my research and its importance to an educated but non-specialist audience. 
 
+[Research Proposal](https://github.com/nicholaskerklaan/writing/blob/main/portfolio/proposal.md)
 
