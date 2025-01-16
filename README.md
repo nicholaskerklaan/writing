@@ -10,7 +10,9 @@ These are articles which could be published as blog posts or website content, wi
 
 ## Philosophical Writing
 
-These are short non-academic articles, each of which break down a philosophical concept for a general audience.
+These are short non-academic articles which break down philosophical concepts for a general audience.
+
+[What is an Argument?](https://github.com/nicholaskerklaan/writing/blob/main/portfolio/arguments.md)
 
 ## Proposal Writing
 
