@@ -39,6 +39,10 @@ It's harder for an act utilitarian to respond to this objection; they pretty muc
 
 There's a version of utilitarianism that isn't necessarily caught by that last objection; some utilitarians prefer it over act utilitarianism for that reason. It's called _rule utilitarianism_.
 
+The difference between the two versions is that in rule utilitarianism, you don't ask yourself about the net good produced by the specific actions you could take. Instead, you ask yourself: if *everyone* took this action in a similar situation, would that make for more or less overall good in the world? It doesn't actually matter if in this specific situation acting a certain way will produce the greatest net good *this* time. A rule utilitarian cares about general rules for behaviour that will produce the most good *in the aggregate*.
+
+Thinking this way seems to avoid the big objection to act utilitarianism, which we can see if we go back to the sheriff example. If the sheriff is a committed rule utilitarian, it seems like he *wouldn't* execute the woman just to prevent the mob destroying the town. That might be the action that produces the most net good in this specific case, but it certainly seems like a world in which the law always executes people without due process because of public opinion is a world with much less good than one in which we strive always *not* to do that.
+
 
 
 
