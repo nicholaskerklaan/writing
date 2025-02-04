@@ -14,7 +14,7 @@ These are short non-academic articles which break down philosophical concepts fo
 
 [What is an Argument?](https://github.com/nicholaskerklaan/writing/blob/main/portfolio/arguments.md)
 
-[Utilitarianism: An Overview](https://github.com/nicholaskerklaan/writing/edit/main/portfolio/utilitarianism.md)
+[Utilitarianism: An Overview](https://github.com/nicholaskerklaan/writing/blob/main/portfolio/utilitarianism.md)
 
 ## Proposal Writing
 
