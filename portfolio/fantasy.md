@@ -6,3 +6,6 @@ Sanderson is nothing if not prolific, and even as he works on multiple other pro
 
 Within that framework, there's room for a Cosmere's worth of tones and writing styles, so there should be something for everyone on this list.
 
+## _The Wheel of Time_ by Robert Jordan and Brandon Sanderson
+
+There's a good chance many *Stormlight Archive* fans have already read this classic epic fantasy series, since Brandon Sanderson himself wrote the last three books, working from Robert Jordan's notes, after the author passed in 2007.
