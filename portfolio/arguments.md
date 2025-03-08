@@ -11,7 +11,7 @@ be the case. The premises are _why_ you ought to believe the conclusion.
 
 ## An Example
 
-Philosophers tend to be interested in certain kinds of arguments -- about ethics, the nature of knowledge, and so on. They also have developed some formal, math-like ways to express arguments. But arguments can be about anythinmg, and we can also easily express them in plain, everyday language. Here's an argument:
+Philosophers tend to be interested in certain kinds of arguments: about ethics, the nature of knowledge, and so on. They also have developed some formal, math-like ways to express arguments. But arguments can be about anythinmg, and we can also easily express them in plain, everyday language. Here's an argument:
 
 ***Premise 1:*** Socrates is a man.
 
@@ -19,7 +19,7 @@ Philosophers tend to be interested in certain kinds of arguments -- about ethics
 
 ***Conclusion:*** Socrates is mortal.
 
-There's a lot we could say about this argument. It's a commom example in philosophy classrooms and textbooks, because it illustrates a specific form Aristotle called a "syllogism." But four our purposes, it's enough to recognize that we have a claim the argument has staked itself too, the conclusion that Socrates is mortal, and then two premises which, taken together, are meant to convince us of the truth of the conclusion.
+There's a lot we could say about this argument. It's a commom example in philosophy classrooms and textbooks, because it illustrates a specific form Aristotle called a "syllogism." But four our purposes, it's enough to recognize that we have: (1) a claim the argument has staked itself to, the conclusion that Socrates is mortal; and (2) two premises which, taken together, are meant to convince us of the truth of the conclusion.
 
 ## Evaluating Arguments
 
@@ -33,9 +33,9 @@ Philosophers call this kind of argument, where the conclusion must be true if al
 
 ***Premise 2:*** Portugal is in Europe.
 
-***Conclusion:*** The sky is blue?
+***Conclusion:*** The sky is blue.
 
-See the difference? Whether or not it's true that my dog's name is Luna or that Portugal is in Europe has absolutely no bearing on whether or not the sky is blue. This argument would be invalid even if all the premises and the conclusion are true (which in this case, they are).
+See the difference? Whether or not it's true that my dog's name is Luna or that Portugal is in Europe has absolutely no bearing on whether or not the sky is blue. In this case, the premises and conclusion are all true, but the argument remains invalid.
 
 If an argument is both valid and all the premises are true, philosophers call it *sound*. To see how an argument could be valid but not sound, we can look at one more example:
 
@@ -45,9 +45,9 @@ If an argument is both valid and all the premises are true, philosophers call it
 
 ***Conclusion:*** The moon is made of cheese.
 
-Just like the Socrates argument, the very way in which we've phrased the premises means the conclusion would be true if the premises were all of true. But, of course, the premises are not true, and neither is the conclusion. So the argument is valid but not sound.
+Just like the Socrates argument, the very way in which we've phrased the premises means the conclusion would be true if the premises were all true. But, of course, the premises are not true, and neither is the conclusion. So the argument is valid but not sound.
 
-This is just one kind of argument, what philosophers call a *deductive argument*. There's a whole other important class of arguemnts, *inductive arguments*, that we evaluate a bit differently, but many of the arguments philosophers work with, or indeed that we encounter in our everyday lives, look something like the above.
+This is just one kind of argument, what philosophers call a *deductive argument*. There's a whole other important class of arguemnts, *inductive arguments*, which we evaluate a bit differently. Still, many of the arguments philosophers work with, or indeed that we encounter in our everyday lives, look something like the above.
 
 
 
