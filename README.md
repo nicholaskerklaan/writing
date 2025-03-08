@@ -2,11 +2,7 @@
 
 I have a PhD in philosophy so I know how to take complex ideas and break them down in writing for different audiences, and how to persuade and inspire readers.
 
-Here you can read some samples of my writing, across several different categories.
-
-## Content Writing
-
-These are articles which could be published as blog posts or website content, with the goal of being helpful and informative while emphasizing certain keywords for search engine optimization (SEO).
+Here you can read some samples of my writing.
 
 ## Philosophical Writing
 
